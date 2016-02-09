@@ -1,0 +1,346 @@
+[
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/threehearts.png",
+        "source": "/home/student/Documents/BlackJack1/app/src/main/res/drawable/threehearts.png"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/sixclubs.png",
+        "source": "/home/student/Documents/BlackJack1/app/src/main/res/drawable/sixclubs.png"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/ninehearts.png",
+        "source": "/home/student/Documents/BlackJack1/app/src/main/res/drawable/ninehearts.png"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/jackclubs.png",
+        "source": "/home/student/Documents/BlackJack1/app/src/main/res/drawable/jackclubs.png"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/jackhearts.png",
+        "source": "/home/student/Documents/BlackJack1/app/src/main/res/drawable/jackhearts.png"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/fourspades.png",
+        "source": "/home/student/Documents/BlackJack1/app/src/main/res/drawable/fourspades.png"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/queenspades.png",
+        "source": "/home/student/Documents/BlackJack1/app/src/main/res/drawable/queenspades.png"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/sevendiamonds.png",
+        "source": "/home/student/Documents/BlackJack1/app/src/main/res/drawable/sevendiamonds.png"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/student/Documents/BlackJack1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/acediamonds.png",
+        "source": "/home/student/Documents/BlackJack1/app/src/main/res/drawable/acediamonds.png"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/acehearts.png",
+        "source": "/home/student/Documents/BlackJack1/app/src/main/res/drawable/acehearts.png"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/deal.png",
+        "source": "/home/student/Documents/BlackJack1/app/src/main/res/drawable/deal.png"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/threespades.png",
+        "source": "/home/student/Documents/BlackJack1/app/src/main/res/drawable/threespades.png"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/student/Documents/BlackJack1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/jackspades.png",
+        "source": "/home/student/Documents/BlackJack1/app/src/main/res/drawable/jackspades.png"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/student/Documents/BlackJack1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/fourhearts.png",
+        "source": "/home/student/Documents/BlackJack1/app/src/main/res/drawable/fourhearts.png"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/fourdiamonds.png",
+        "source": "/home/student/Documents/BlackJack1/app/src/main/res/drawable/fourdiamonds.png"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/student/Documents/BlackJack1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/student/Documents/BlackJack1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/twohearts.png",
+        "source": "/home/student/Documents/BlackJack1/app/src/main/res/drawable/twohearts.png"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/threeclubs.png",
+        "source": "/home/student/Documents/BlackJack1/app/src/main/res/drawable/threeclubs.png"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/sevenhearts.png",
+        "source": "/home/student/Documents/BlackJack1/app/src/main/res/drawable/sevenhearts.png"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/student/Documents/BlackJack1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/threediamonds.png",
+        "source": "/home/student/Documents/BlackJack1/app/src/main/res/drawable/threediamonds.png"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/hit.png",
+        "source": "/home/student/Documents/BlackJack1/app/src/main/res/drawable/hit.png"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/home/student/Documents/BlackJack1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/tenhearts.png",
+        "source": "/home/student/Documents/BlackJack1/app/src/main/res/drawable/tenhearts.png"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/red_joker.png",
+        "source": "/home/student/Documents/BlackJack1/app/src/main/res/drawable/red_joker.png"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/eightspades.png",
+        "source": "/home/student/Documents/BlackJack1/app/src/main/res/drawable/eightspades.png"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/fourclubs.png",
+        "source": "/home/student/Documents/BlackJack1/app/src/main/res/drawable/fourclubs.png"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/sixdiamonds.png",
+        "source": "/home/student/Documents/BlackJack1/app/src/main/res/drawable/sixdiamonds.png"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/eightclubs.png",
+        "source": "/home/student/Documents/BlackJack1/app/src/main/res/drawable/eightclubs.png"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/home/student/Documents/BlackJack1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/student/Documents/BlackJack1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/acespades.png",
+        "source": "/home/student/Documents/BlackJack1/app/src/main/res/drawable/acespades.png"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/student/Documents/BlackJack1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/fivespades.png",
+        "source": "/home/student/Documents/BlackJack1/app/src/main/res/drawable/fivespades.png"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/redeal.png",
+        "source": "/home/student/Documents/BlackJack1/app/src/main/res/drawable/redeal.png"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/kingspades.png",
+        "source": "/home/student/Documents/BlackJack1/app/src/main/res/drawable/kingspades.png"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/cardback.png",
+        "source": "/home/student/Documents/BlackJack1/app/src/main/res/drawable/cardback.png"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/queenclubs.png",
+        "source": "/home/student/Documents/BlackJack1/app/src/main/res/drawable/queenclubs.png"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/queenhearts.png",
+        "source": "/home/student/Documents/BlackJack1/app/src/main/res/drawable/queenhearts.png"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/home/student/Documents/BlackJack1/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/fiveclubs.png",
+        "source": "/home/student/Documents/BlackJack1/app/src/main/res/drawable/fiveclubs.png"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/nineclubs.png",
+        "source": "/home/student/Documents/BlackJack1/app/src/main/res/drawable/nineclubs.png"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/fivediamonds.png",
+        "source": "/home/student/Documents/BlackJack1/app/src/main/res/drawable/fivediamonds.png"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/fivehearts.png",
+        "source": "/home/student/Documents/BlackJack1/app/src/main/res/drawable/fivehearts.png"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/student/Documents/BlackJack1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/home/student/Documents/BlackJack1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/twodiamonds.png",
+        "source": "/home/student/Documents/BlackJack1/app/src/main/res/drawable/twodiamonds.png"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/twoclubs.png",
+        "source": "/home/student/Documents/BlackJack1/app/src/main/res/drawable/twoclubs.png"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/kingdiamonds.png",
+        "source": "/home/student/Documents/BlackJack1/app/src/main/res/drawable/kingdiamonds.png"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/stand.png",
+        "source": "/home/student/Documents/BlackJack1/app/src/main/res/drawable/stand.png"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/aceclubs.png",
+        "source": "/home/student/Documents/BlackJack1/app/src/main/res/drawable/aceclubs.png"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/sixspades.png",
+        "source": "/home/student/Documents/BlackJack1/app/src/main/res/drawable/sixspades.png"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/student/Documents/BlackJack1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/student/Documents/BlackJack1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/tenspades.png",
+        "source": "/home/student/Documents/BlackJack1/app/src/main/res/drawable/tenspades.png"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/tendiamonds.png",
+        "source": "/home/student/Documents/BlackJack1/app/src/main/res/drawable/tendiamonds.png"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/home/student/Documents/BlackJack1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/student/Documents/BlackJack1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/student/Documents/BlackJack1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/queendiamonds.png",
+        "source": "/home/student/Documents/BlackJack1/app/src/main/res/drawable/queendiamonds.png"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/student/Documents/BlackJack1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/home/student/Documents/BlackJack1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/eightdiamonds.png",
+        "source": "/home/student/Documents/BlackJack1/app/src/main/res/drawable/eightdiamonds.png"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/dealup.png",
+        "source": "/home/student/Documents/BlackJack1/app/src/main/res/drawable/dealup.png"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/twospades.png",
+        "source": "/home/student/Documents/BlackJack1/app/src/main/res/drawable/twospades.png"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/student/Documents/BlackJack1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/kinghearts.png",
+        "source": "/home/student/Documents/BlackJack1/app/src/main/res/drawable/kinghearts.png"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/sevenclubs.png",
+        "source": "/home/student/Documents/BlackJack1/app/src/main/res/drawable/sevenclubs.png"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/ic_launcher.png",
+        "source": "/home/student/Documents/BlackJack1/app/src/main/res/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/student/Documents/BlackJack1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/student/Documents/BlackJack1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/sevenspades.png",
+        "source": "/home/student/Documents/BlackJack1/app/src/main/res/drawable/sevenspades.png"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/home/student/Documents/BlackJack1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/tenclubs.png",
+        "source": "/home/student/Documents/BlackJack1/app/src/main/res/drawable/tenclubs.png"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/ninespades.png",
+        "source": "/home/student/Documents/BlackJack1/app/src/main/res/drawable/ninespades.png"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/ninediamonds.png",
+        "source": "/home/student/Documents/BlackJack1/app/src/main/res/drawable/ninediamonds.png"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/kingclubs.png",
+        "source": "/home/student/Documents/BlackJack1/app/src/main/res/drawable/kingclubs.png"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/eighthearts.png",
+        "source": "/home/student/Documents/BlackJack1/app/src/main/res/drawable/eighthearts.png"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/jackdiamonds.png",
+        "source": "/home/student/Documents/BlackJack1/app/src/main/res/drawable/jackdiamonds.png"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/home/student/Documents/BlackJack1/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/student/Documents/BlackJack1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/student/Documents/BlackJack1/app/build/intermediates/res/merged/debug/drawable/sixhearts.png",
+        "source": "/home/student/Documents/BlackJack1/app/src/main/res/drawable/sixhearts.png"
+    }
+]
